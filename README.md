@@ -1,504 +1,134 @@
-<div align="center">
-    <img  width=180 src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/logo.png"/>
-    <h1>✨Awesome Love Code✨<br>❤️表白代码收藏馆❤️</h1> 
-</div>
+<!DOCTYPE html>
+<html lang="en">
 
-> 部分代码源自于互联网，侵删！
+<head>
+    <meta charset="UTF-8">
+    <title>大川同学</title>
+    <meta name="language" content="zh-CN">
+    <meta name="title" content="大川同学">
+    <meta name="github" content="https://github.com/sun0225SUN/Awesome-Love-Code">
+    <meta name="describe" content="收集不易，您的star是我坚持的动力，同时也欢迎各位PR哦! ">
+    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/img/20210715233345.png">
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
 
-# Web
+        body {
+            background-color: pink;
 
-<table align="center">
-    <!-- 第一行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/001">
-            <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/001.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/002">
-            <p align="center">002</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/002.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/003">
-            <p align="center">003</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/003.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第二行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/004">
-            <p align="center">004</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/004.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/005">
-            <p align="center">005</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/005.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/006">
-            <p align="center">006</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/006.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第三行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/007">
-            <p align="center">007</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/007.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/008">
-            <p align="center">008</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/008.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/009">
-            <p align="center">009</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/009.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第四行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/010">
-            <p align="center">010</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/010.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/011">
-            <p align="center">011</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/011.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/012">
-            <p align="center">012</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/012.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第五行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/013">
-            <p align="center">013</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/013.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/014">
-            <p align="center">014</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/014.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/015">
-            <p align="center">015</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/015.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第六行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/016">
-            <p align="center">016</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/016.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/017">
-            <p align="center">017</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/017.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/018">
-            <p align="center">018</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/018.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第七行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/019">
-            <p align="center">019</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/019.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/020">
-            <p align="center">020</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/020.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/021">
-            <p align="center">021</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/021.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第八行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/022">
-            <p align="center">022</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/022.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/023">
-            <p align="center">023</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/023.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/024">
-            <p align="center">024</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/024.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第九行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/025">
-            <p align="center">025</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/025.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/026">
-            <p align="center">026</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/026.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/027">
-            <p align="center">027</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/027.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第十行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/028">
-            <p align="center">028</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/028.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/029">
-            <p align="center">029</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/029.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/030">
-            <p align="center">030</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/030.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第十一行 -->
-    <tr>
-        <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/031">
-            <p align="center">031</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/031.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/032">
-            <p align="center">032</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/032.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/033">
-            <p align="center">033</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/033.png"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第十一行 -->
-    <tr>
-        <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/034">
-            <p align="center">034</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/034.png"/>
-        </a>
-    </td>
-    </tr>
-</table>
+        }
 
->  032 源自此仓库：https://github.com/fromann/heart  作者：fromann
-> 
->  034 源自此仓库：https://github.com/Kaiser-DMr/-3D  作者：Kaiser-DMr
+        #frame {
+            position: relative;
+            width: 400px;
+            height: 300px;
+            margin: 250px auto;
+        }
 
-# Python
+        .left,
+        .right {
+            top: 0;
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
 
-<table align="center">
-    <!-- 第一行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/001">
-            <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/001.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/002">
-            <p align="center">002</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/002.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/003">
-            <p align="center">003</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/003.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第二行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/004">
-            <p align="center">004</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/004.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/005">
-            <p align="center">005</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/005.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/006">
-            <p align="center">006</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/006.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第三行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/007">
-            <p align="center">007</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/007.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/008">
-            <p align="center">008</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/008.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Python/009">
-            <p align="center">009</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/009.png"/>
-        </a>
-    </td>
-    </tr>
-</table>
+        .left {
+            left: 35px;
 
-# MatLab
+        }
 
+        .right {
+            right: 35px;
+            z-index: -1;
+        }
 
-<table align="center">
-    <!-- 第一行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/001">
-            <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/001.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/002">
-            <p align="center">002</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/002.gif"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/003">
-            <p align="center">003</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/003.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第二行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/004">
-            <p align="center">004</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/004.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/005">
-            <p align="center">005</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/005.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/006">
-            <p align="center">006</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/006.jpg"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第三行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/007">
-            <p align="center">007</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/007.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/008">
-            <p align="center">008</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/008.jpg"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/MatLab/009">
-            <p align="center">009</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/matlab/009.jpg"/>
-        </a>
-    </td>
-    </tr>
-</table>
+        .bottom {
+            bottom: 36px;
+            left: 100px;
+            width: 200px;
+            height: 200px;
+            transform: rotate(45deg);
+            z-index: -1;
 
-> 007--009  原文链接：https://zhuanlan.zhihu.com/p/411819722  作者：slandarer
+        }
 
-# C/C++
+        .heart {
+            position: absolute;
+            box-shadow: 0 0 40px #d5093c;
+            animation: beat .4s ease infinite normal;
+            background: linear-gradient(-90deg, #F50A45 0%, #d5093c 40%);
+        }
 
-<table >
-    <!-- 第一行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/C/001">
-            <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/c/001.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/C/002">
-            <p align="center">002</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/c/002.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/C/003">
-            <p align="center">003</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/c/003.png"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第二行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/love">
-            <p align="center">004</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/c/004.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/meteor">
-            <p align="center">005</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/c/005.png"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/fireworks">
-            <p align="center">006</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/c/006.png"/>
-        </a>
-    </td>
-    </tr>
-</table>
+        @keyframes beat {
+            0% {
+                transform: scale(1) rotate(225deg);
+                box-shadow: 0 0 40px #d5093c;
+            }
 
-> 004 原作者 https://www.bilibili.com/video/BV13P4y1R7DP
+            50% {
+                transform: scale(1.1) rotate(225deg);
+                box-shadow: 0 0 70px #d5093c;
+            }
 
-# Vbs
+            100% {
+                transform: scale(1) rotate(225deg);
+                box-shadow: 0 0 40px #d5093c;
+                ;
+            }
+        }
 
-<table >
-    <!-- 第一行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Vbs/001">
-            <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/001.gif"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Vbs/002">
-            <p align="center">002</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/002.gif"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Vbs/003">
-            <p align="center">003</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/003.gif"/>
-        </a>
-    </td>
-    </tr>
-    <!-- 第二行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Vbs/004">
-            <p align="center">004</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/004.gif"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Vbs/005">
-            <p align="center">005</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/005.gif"/>
-        </a>
-    </td>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Awesome-Love-Code/tree/main/Vbs/006">
-            <p align="center">006</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/006.png"/>
-        </a>
-    </td>
-    </tr>
-</table>
+        .word {
+            position: absolute;
+            width: 50%;
+            top: 75%;
+            left: 25%;
+            text-align: center;
+            transform: translateY(-50%);
+            font-family: 'Love Ya Like A Sister', cursive;
+            font-size: 40px;
+            color: #c70012;
+            padding: 0 20px;
+        }
+    </style>
+</head>
 
-# C#
+<body>
+        <script>
+        while(true){
+            let a
+                a=prompt('你爱我吗？');
+            if(a=='爱'){
+                alert('我也是')
+                break
+            }
+            else{
+                alert('继续')
+                continue
+            }
+        }
+    </script>
+    <div id="frame">
+        <div class="heart left"></div>
+        <div class="heart right"></div>
+        <div class="heart bottom"></div>
+    </div>
 
-<table align="center">
-    <!-- 第一行 -->
-    <tr>
-    <td valign="top">
-        <a target="_blank" href="https://github.com/sun0225SUN/Be-My-Girlfriend">
-            <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/csharp/001.gif"/>
-        </a>
-    </td>
-    </tr>
-</table>
+    <b class="word">每次遇见你都心跳加速!</b>
+
+    <audio autoplay="autopaly" loop="loop" id="audios" preload="auto">
+        <source src="http://music.163.com/song/media/outer/url?id=526464145.mp3" />
+    </audio>
+
+    <script>
+        var b = document.body;
+        var c = document.getElementsByTagName('canvas')[0];
+        var a = c.getContext('2d');
+        document.body.clientWidth;
+        with (m = Math) C = cos, S = sin, P = pow, R = random; c.width = c.height = f = 600; h = -250; function p(a, b, c) { if (c > 60) return [S(a * 7) * (13 + 5 / (.2 + P(b * 4, 4))) - S(b) * 50, b * f + 50, 625 + C(a * 7) * (13 + 5 / (.2 + P(b * 4, 4))) + b * 400, a * 1 - b / 2, a]; A = a * 2 - 1; B = b * 2 - 1; if (A * A + B * B < 1) { if (c > 37) { n = (j = c & 1) ? 6 : 4; o = .5 / (a + .01) + C(b * 125) * 3 - a * 300; w = b * h; return [o * C(n) + w * S(n) + j * 610 - 390, o * S(n) - w * C(n) + 550 - j * 350, 1180 + C(B + A) * 99 - j * 300, .4 - a * .1 + P(1 - B * B, -h * 6) * .15 - a * b * .4 + C(a + b) / 5 + P(C((o * (a + 1) + (B > 0 ? w : -w)) / 25), 30) * .1 * (1 - B * B), o / 1e3 + .7 - o * w * 3e-6] } if (c > 32) { c = c * 1.16 - .15; o = a * 45 - 20; w = b * b * h; z = o * S(c) + w * C(c) + 620; return [o * C(c) - w * S(c), 28 + C(B * .5) * 99 - b * b * b * 60 - z / 2 - h, z, (b * b * .3 + P((1 - (A * A)), 7) * .15 + .3) * b, b * .7] } o = A * (2 - b) * (80 - c * 2); w = 99 - C(A) * 120 - C(b) * (-h - c * 4.9) + C(P(1 - b, 7)) * 50 + c * 2; z = o * S(c) + w * C(c) + 700; return [o * C(c) - w * S(c), B * 99 - C(P(b, 7)) * 50 - c / 3 - z / 1.35 + 450, z, (1 - b / 1.2) * .9 + a * .1, P((1 - b), 20) / 4 + .05] } } setInterval('for(i=0;i<1e4;i++)if(s=p(R(),R(),i%46/.74)){z=s[2];x=~~(s[0]*f/z-h);y=~~(s[1]*f/z-h);if(!m[q=y*f+x]|m[q]>z)m[q]=z,a.fillStyle="rgb("+~(s[3]*h)+","+~(s[4]*h)+","+~(s[3]*s[3]*-80)+")",a.fillRect(x,y,1,1)}', 0)
+    </script>
+</body>
+
+</html>
